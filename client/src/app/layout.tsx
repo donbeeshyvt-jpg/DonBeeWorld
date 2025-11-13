@@ -24,7 +24,15 @@ export const metadata: Metadata = {
   description:
     "史萊姆酒館即時營運介面，整合採集、冒險、經濟、聊天與贊助系統。",
   icons: {
-    icon: "/donbee-slime.svg"
+    icon: [
+      {
+        url: "/server-icon.png",
+        type: "image/png",
+        sizes: "64x64"
+      }
+    ],
+    shortcut: "/server-icon.png",
+    apple: "/server-icon.png"
   }
 };
 
