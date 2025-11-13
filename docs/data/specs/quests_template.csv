@@ -1,0 +1,6 @@
+quest_key,display_name,display_name_en,quest_type,scene,description,description_en,requirements,reward_items,reward_coin,reward_soul,unlock_conditions,repeatable,cooldown_minutes,gm_notes
+tavern_daily_honeybrew,酒館日常：蜜釀補給,Tavern Daily: Honeybrew,daily,tavern,"協助冬蜜準備今晚的蜜釀供應。","Help Donae restock tonight's honeybrew.",collect:tent_honey_nectar:10,"tavern_honeybrew:5",500,0,profile_level>=1,true,1440,"新手每日任務，完成後開啟贊助教學"
+tent_story_crystal_rescue,主線：冰晶救援,Story: Crystal Rescue,story,traveling_tent,"巡旅營地遭受寒霜侵襲，收集冰晶修復魔法結界。","Collect ice crystals to repair the protective ward.",collect:tent_ice_shard:15|defeat:izakaya_ice_wraith:1,"workshop_forge_pickaxe:1|tent_gather_bundle:1",1200,1,previous_complete:tent_story_intro,false,0,"完成後解鎖冰晶礦脈採集點"
+workshop_chain_foundry,鍛造鏈：打造鎧甲,Workshop Chain: Craft Armor,chain,underground_workshop,"在地下工作室完成三階段鎧甲製作。","Complete the three-stage armor crafting line.",craft:workshop_armor_plate:3,"izakaya_battleblade:1",0,4,profile_level>=10,false,0,"授權給中階玩家；GM 可調整獎勵"
+izakaya_event_warcry,活動：戰亂吶喊,Event: War Cry,event,eastern_izakaya,"參與戰亂居酒屋的征討，集結 20 位冒險者贏得勝利。","Join the Izakaya raid and achieve combined victory with 20 adventurers.",participate:raid_warcry:20,"soul_coin:2|battlefield_token:5",800,3,event_active:warcry_week,true,720,"活動期間限定；戰報將同步 Discord"
+

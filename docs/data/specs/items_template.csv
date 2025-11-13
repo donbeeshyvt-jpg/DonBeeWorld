@@ -1,0 +1,6 @@
+item_key,display_name,display_name_en,category,subtype,rarity,description,description_en,stack_limit,equip_slot,base_attack,base_magic,base_defense,base_speed,price_coin,price_soul,craft_recipe_key,craft_time_seconds,source_notes
+tavern_honeybrew,Honeybrew 蜜釀,Honeybrew,consumable,drink,common,增益酒館調酒，飲用後提升採集效率 10% 持續 10 分鐘,Boost gathering efficiency by 10% for 10 minutes,20,,0,0,0,0,120,0,workshop_brew_basic,180,"酒館史萊姆調酒師；新手任務獎勵"
+workshop_forge_pickaxe,冬蜜工坊鋼鎬,Winter Steel Pickaxe,tool,mining,rare,適用於地下工作室的採礦工具，提供 +15 採礦效率,+15 mining efficiency tool for the Underground Workshop,1,tool,0,0,5,2,2400,0,forge_pickaxe_t2,900,"地下工作室鍛造；戰亂居酒屋軍需商店"
+izakaya_battleblade,戰亂居酒屋戰刃,Battleblade of the Izakaya,weapon,sword,epic,戰鬥力 +25，並對冰屬敵人附加額外傷害,+25 attack, extra damage vs ice foes,1,weapon,25,5,5,3,0,12,boss_drops_warlord,0,"戰亂居酒屋副本首領掉落；魂幣黑市"
+tent_gather_bundle,巡旅採集補給包,Traveling Gatherer Pack,bundle,gathering,uncommon,包含採集工具、能量飲與天氣護符，離線收益加成 5%,Bundle with tools and weather charm,1,,0,0,0,0,800,2,,0,"帳篷巡旅營地任務；魂幣商店限購"
+

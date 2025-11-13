@@ -1,0 +1,5 @@
+mission_key,display_name,display_name_en,scene,mission_type,recommended_power,power_scaling,min_duration_seconds,max_duration_seconds,success_formula,reward_items,reward_coin,reward_soul,reward_experience,unlock_conditions,allow_auto_repeat,notes
+izakaya_raid_warlord,戰亂居酒屋：暴君討伐,Izayaka Raid: Warlord,eastern_izakaya,raid,2500,0.15,1800,3600,"base + (team_power * 0.12) - boss_resistance","izakaya_battleblade:1|tent_honey_nectar:10",2800,4,4500,quest:tent_story_crystal_rescue,false,"完成後開啟戰報推播；可掉落魂幣碎片"
+tent_patrol_scout,巡旅營地：防衛巡邏,Tent Patrol: Defend,traveling_tent,patrol,600,0.08,900,1800,"base + (player_speed * 0.2)","tent_gather_bundle:1",900,0,1200,profile_level>=3,true,"離線期間可自動完成；成功率受天氣影響"
+workshop_relic_hunt,地下工作室：遺物探索,Underground Relic Hunt,underground_workshop,expedition,1100,0.1,1200,2400,"base + (magic + perception) * 0.1","workshop_frostcap:4|market_honey_extract:2",1600,1,2000,quest:tavern_daily_honeybrew,true,"適合中期資源循環；可觸發隱藏事件"
+

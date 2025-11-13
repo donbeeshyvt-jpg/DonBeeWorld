@@ -1,0 +1,6 @@
+shop_key,npc_key,display_name,display_name_en,scene,item_key,price_coin,price_soul,max_stock,restock_minutes,limit_per_player,requires_quest,notes
+tavern_honeybartender,donbee_tavern_keeper,酒館調酒師,Tavern Bartender,tavern,tavern_honeybrew,150,0,40,60,5,,常駐販售；可配合活動打折
+tavern_honeybartender,donbee_tavern_keeper,酒館調酒師,Tavern Bartender,tavern,tent_gather_bundle,600,1,10,120,2,quest:tavern_daily_honeybrew,魂幣找零示範用項目
+workshop_smith,underground_blacksmith,地下鐵匠,Underground Blacksmith,underground_workshop,workshop_forge_pickaxe,2600,0,5,180,1,quest:tent_story_crystal_rescue,需完成主線冰晶救援
+izakaya_warmonger,izakaya_quartermaster,戰亂軍需官,War Quartermaster,eastern_izakaya,izakaya_battleblade,0,12,1,1440,1,achievement:raid_warlord,高階魂幣武器；可透過後台修改數值
+

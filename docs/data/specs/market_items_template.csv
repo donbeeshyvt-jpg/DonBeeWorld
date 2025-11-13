@@ -1,0 +1,6 @@
+market_item_key,display_name,display_name_en,category,base_price,min_price,max_price,daily_delta_min,daily_delta_max,volatility,event_modifier,notes
+market_honey_extract,冬蜜濃縮液,Winter Nectar Extract,consumable,320,200,540,-40,60,0.12,season:harvest_festival=1.2,"基礎採集素材；每逢豐收祭上漲"
+market_ice_shard,冰晶碎片,Ice Shard,material,480,260,720,-60,80,0.18,event:blizzard_week=1.4,"冒險副本需求大；雪暴事件價格翻倍"
+market_war_bond,戰亂軍票,War Bond,currency,1500,800,2600,-150,220,0.25,event:warcry_week=1.5,"可兌換軍需官稀有裝備；魂幣對價分析"
+market_soul_fragment,魂幣碎片,Soul Fragment,currency,1200,600,2000,-100,150,0.2,event:any=1.0,"可由玩家合成魂幣；匯率參考魂幣價值"
+

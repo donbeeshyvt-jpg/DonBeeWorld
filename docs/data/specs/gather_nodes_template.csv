@@ -1,0 +1,6 @@
+node_key,display_name,display_name_en,scene,skill_type,min_level,base_duration_seconds,max_parallel_jobs,energy_cost,success_rate,output_item_key,output_min,output_max,season_event_bonus,respawn_seconds,notes
+tent_honey_harvest,蜜泉林採集,Honey Spring Harvest,traveling_tent,harvesting,1,120,2,5,0.95,tent_honey_nectar,2,4,"靈蜜季節 +2 產量",60,"新手任務引導；完成後解鎖進階採集"
+tent_ice_mine,冰晶礦脈,Crystalized Ice Mine,traveling_tent,mining,5,180,1,6,0.9,tent_ice_shard,1,3,"雪暴事件成功率 +10%",90,"需要裝備 Winter Steel Pickaxe 才能採集"
+workshop_fungi_lab,地下真菌培養,Subterranean Fungus Lab,underground_workshop,herbalism,8,300,3,8,0.88,workshop_frostcap,2,5,"使用煉金增益時 +1 產量",120,"可設定自動投入採集成果進行加工"
+izakaya_battlefield_scavenge,戰場拾荒,Battlefield Scavenge,eastern_izakaya,scavenging,12,420,2,10,0.8,izakaya_war_scrap,3,6,"戰亂事件期間額外掉落魂幣碎片",180,"冒險派遣結束後額外解鎖"
+
