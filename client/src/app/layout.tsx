@@ -20,9 +20,12 @@ const cormorant = Cormorant_Garamond({
 });
 
 export const metadata: Metadata = {
-  title: "冬蜜大陸世界 | Winter Nectar Realm",
+  title: "冬蜜酒館 | DonBeeWorld",
   description:
-    "史萊姆酒館即時營運介面，整合採集、冒險、經濟、聊天與贊助系統。"
+    "史萊姆酒館即時營運介面，整合採集、冒險、經濟、聊天與贊助系統。",
+  icons: {
+    icon: "/donbee-slime.svg"
+  }
 };
 
 export default function RootLayout({

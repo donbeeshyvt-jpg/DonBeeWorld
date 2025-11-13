@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <defs>
+    <linearGradient id="slime-body" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#d8f7b9" />
+      <stop offset="50%" stop-color="#a7e48b" />
+      <stop offset="100%" stop-color="#5cb873" />
+    </linearGradient>
+    <linearGradient id="slime-shadow" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#3a6645" stop-opacity="0.45" />
+      <stop offset="100%" stop-color="#1e3c28" stop-opacity="0.65" />
+    </linearGradient>
+  </defs>
+  <rect width="256" height="256" rx="72" fill="#04110b" />
+  <g transform="translate(28 48)">
+    <path
+      d="M36 62c12-43 51-62 104-62s92 29 104 62 10 82-20 111-80 40-132 40-100-13-120-40-16-68 4-111z"
+      fill="url(#slime-body)"
+    />
+    <ellipse cx="112" cy="152" rx="92" ry="28" fill="url(#slime-shadow)" />
+    <ellipse cx="82" cy="102" rx="10" ry="14" fill="#1f2a1b" />
+    <ellipse cx="146" cy="102" rx="10" ry="14" fill="#1f2a1b" />
+    <path
+      d="M88 138c12 10 36 10 48 0"
+      fill="none"
+      stroke="#1f2a1b"
+      stroke-width="10"
+      stroke-linecap="round"
+    />
+  </g>
+</svg>
+
